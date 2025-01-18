@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nidhi Bhagat.
 - 🌱 I’m currently learning Data Structure and Algorithms along with MongoDB.
 - 💞️ I’m looking to collaborate on open source/personal projets on Web Development.
-- 📫 How to reach me benidhib@gmail.com
+- 📫 How to reach me bhagatnidhi365@gmail.com
 
 
 
